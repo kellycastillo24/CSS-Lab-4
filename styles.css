@@ -19,3 +19,40 @@
 .main-content{
     background-color: yellow;
 }
+
+
+.head{
+    text-decoration-line: underline;
+}
+
+.para{
+    text-align: center;
+}
+
+.bold-text{
+    font-weight: bold;
+}
+
+#id1{
+    font-weight: 300;
+}
+
+.context{
+    text-transform: uppercase;
+}
+
+body{
+    font-family: Arial, sans-serif;
+}
+
+.custom-font{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.capitalize-text{
+    text-transform: capitalize;
+}
+
+a{
+    text-decoration-line: none;
+}
