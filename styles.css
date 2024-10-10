@@ -12,6 +12,10 @@
     color: red;
 }
 
-.myclass{
+.highlight{
     color: green;
+}
+
+.main-content{
+    background-color: yellow;
 }
